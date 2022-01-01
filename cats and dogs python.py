@@ -23,5 +23,5 @@ while counter < len(height):
         animal.append("DOG")
         counter += 1
  
- #Prints predictions
+ #Prints animal predictions
 print(animal)       
